@@ -1,7 +1,7 @@
 # Check Occasionally For Updates Auto Updating Coming Soon!
 
 # About Molecule
-> This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. This Won't Be An Exact Clone But I Will Try My Best And I Hope You Guy Help Me With Some Ideas And Would Love To Support This! This Text Editor Was Built On ![Electron](https://github.com/electron/electron)!
+> This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. This Won't Be A Clone It Is A Text Editor That Will Give You Those Same Vibes Of Atom! This Text Editor Was Built On ![Electron](https://github.com/electron/electron)!
 ![alt text](https://raw.githubusercontent.com/TheMrRedstone/Molecule/main/Assets/MoleculeBanner.png)
 
 # Documentation
