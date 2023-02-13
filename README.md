@@ -3,6 +3,7 @@ This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. Thi
 ![alt text](https://raw.githubusercontent.com/TheMrRedstone/Molecule/main/Assets/MoleculeBanner.png)
 
 # Documentation
+> Check Here For More Updates Occasionally!
 
 # Versions
 
@@ -11,7 +12,6 @@ This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. Thi
 >      Molecule v0.0.1
 > Hello This Is The First Version Of Molecule!
 > Included
-> - Folder / File Opening
-> - Made Similar UI To Atom
+> - Created A Simple Text Editor
 > - Created The Beta Welcome Page
-> - Added File, Edit, View, Selection, Find, Packages, And Help Options!
+> - Added File, Edit, View, Selection, Find, Packages, And Help Options! - Not Much Functionallity!
