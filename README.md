@@ -7,7 +7,7 @@ This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. Thi
 # Versions
 >
 ### Molecule v0.0.1
-<span># Test</span>
+<span style="font-size: 50px;">Test</span>
 > Hello This Is The First Version Of Molecule!
 > Included
 > - Folder / File Opening
