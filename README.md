@@ -1,5 +1,5 @@
 # About Molecule
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/TheMrRedstone/Molecule/main/Assets/MoleculeBanner.png)
 This Is A Similar IDE To Atom! I Created This Due To GitHub Sunsetting Atom. This Won't Be An Exact Clone But I Will Try My Best And I Hope You Guy Help Me With Some Ideas And Would Love To Support This!
 
 # Molecule v0.0.1
