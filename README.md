@@ -11,7 +11,7 @@
 
 
 >
->      Molecule v0.0.1
+>      Molecule v0.0.1 - NOT RELEASED YET WILL BE IN A FEW DAYS DEFINATLY BEFORE FEBUARY 20th 2023
 > Hello This Is The First Version Of Molecule!
 > Included
 > - Created A Simple Text Editor
